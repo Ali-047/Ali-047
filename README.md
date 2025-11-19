@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ali Nemati
 
 I'm a Frontend Developer with around two years of experience in designing and implementing modern, engaging user interfaces.  
-I have worked with key frontend technologies including HTML, CSS, JavaScript, TypeScript, Vue, React, Tailwind, and tools like Git, GitHub, and Figma.  
+I have worked with key frontend technologies including HTML, CSS, JavaScript, TypeScript, Vue, React, Tailwind, and tools like Figma.  
 I focus on creating dynamic, animated, and visually appealing interfaces that enhance the user experience.
 
 My ability to quickly adapt to new projects and contribute innovative ideas has enabled me to add tangible value in challenging environments and dynamic teams.  
